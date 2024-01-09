@@ -1,3 +1,5 @@
+alert("open in 1440px for good experience");
+
 let text = document.querySelector("#text")
 let hill1 = document.querySelector("#hill1")
 let hill2 = document.querySelector("#hill2")

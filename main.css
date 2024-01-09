@@ -91,34 +91,3 @@ a.active {
 .sec p{
     color: #fff;
 }
-
-@media(max-width:1460px){
-    .sec{
-        margin-top: -3em;
-    }
-}
-
-@media(max-width:1380px){
-    .sec{
-        margin-top: -5em;
-    }
-}
-
-
-@media(max-width:1318px){
-    .sec{
-        margin-top: -8em;
-    }
-}
-
-@media(max-width:1240px){
-    .sec{
-        margin-top: -11em;
-    }
-}
-
-@media(max-width:1153px){
-    .sec{
-        margin-top: -13em;
-    }
-}
